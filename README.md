@@ -1,4 +1,6 @@
-﻿Ethan Pineda: COMP_SCI 376: Game Design and Development
+﻿# COMP-SCI-376-Final-Project-Apollo
+
+Ethan Pineda: COMP_SCI 376: Game Design and Development
 Final Project: INSTRUCTIONS
 12/3/2022
 
@@ -60,4 +62,4 @@ Objects on the Screen:
 * Bomb brick (these should be brown. These should spawn every level at somewhat random places)
    * If the ball comes into contact with these, then all bricks in its blast radius will be hit.
       * The bricks will either be destroyed or will lose a hit point# COMP-SCI-376-Final-Project-Apollo
-# COMP-SCI-376-Final-Project-Apollo
+
